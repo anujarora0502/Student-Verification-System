@@ -1,0 +1,20 @@
+{
+  "name": "Student Verification System",
+  "version": "1.0.0",
+  "description": "eBGVS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^46.0.1",
+    "multer": "^1.4.2",
+    "web3": "^1.7.1"
+  }
+}
